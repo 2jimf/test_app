@@ -22,4 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * Updating the readme to test git.
+    - update and save any file
+    - git commit -a
+    - git commit -m "Changed readme.md to test git"
+    - use git status anytime or Ctrl+Shift-G in MS Code
 ...
